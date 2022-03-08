@@ -1,0 +1,3 @@
+Custom String Interpolation
+
+https://devblogs.microsoft.com/dotnet/string-interpolation-in-c-10-and-net-6/
