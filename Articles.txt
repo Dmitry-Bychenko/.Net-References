@@ -1,3 +1,7 @@
 Custom String Interpolation
 
 https://devblogs.microsoft.com/dotnet/string-interpolation-in-c-10-and-net-6/
+
+Formatting (EditorConfig)
+
+https://betterprogramming.pub/enforce-net-code-style-with-editorconfig-d2f0d79091ac
