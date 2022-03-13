@@ -6,3 +6,7 @@ Formatting (EditorConfig)
 
   https://betterprogramming.pub/enforce-net-code-style-with-editorconfig-d2f0d79091ac
   https://editorconfig.org/
+  
+Authentication
+
+  https://endjin.com/blog/2022/03/adding-authentication-and-authorisation-to-aspnet-core-web-applications.html?utm_source=csharpdigest&utm_medium=email&utm_campaign=406
