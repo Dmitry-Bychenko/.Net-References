@@ -1,15 +1,15 @@
 Ссылки на сервисы VPN:
 🔻Psiphon — https://psiphon3.com
-
 🔻Lantern — https://getlantern.org
-
 🔻Tachyon VPN — https://tachyon.eco
-
 🔻Xeovo — https://xeovo.com
-
 🔻Intra — https://getintra.org
-
 🔻ProtonVPN — https://protonvpn.com
-
 🔻FCK_RKN — российский сервис, который можно купить прямо в телеграме: https://t.me/FCK_RKN_bot?start=navalny
 . Три дня подписки бесплатно. 
+
+Браузер Tor — https://torproject.org/download
+
+Ресурсы, где можно изучить азы безопасности:
+🔻«Секьюрно» — https://securno.org
+🔻«Общество защиты интернета» — https://youtu.be/CT3y1L13l-U
