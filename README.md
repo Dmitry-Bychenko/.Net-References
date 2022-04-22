@@ -17,3 +17,8 @@ https://referencesource.microsoft.com/
 
 https://sharplab.io/
 
+### Microservices
+
+https://microservices.io/
+https://microservices.io/patterns/data/event-sourcing.html
+
