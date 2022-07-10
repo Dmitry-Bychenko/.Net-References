@@ -24,3 +24,6 @@ https://sharplab.io/
 https://microservices.io/
 https://microservices.io/patterns/data/event-sourcing.html
 
+### References
+
+https://habr.com/ru/company/otus/blog/675668/
