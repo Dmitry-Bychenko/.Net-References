@@ -32,6 +32,13 @@ https://habr.com/ru/company/otus/blog/675668/
 
 https://code-maze.com/write-for-codemaze/?source=content
 
+### Articles
+
+DB Interception 
+
+  https://lizzy-gallagher.github.io/query-interception-entity-framework/
+  https://learn.microsoft.com/en-us/ef/core/logging-events-diagnostics/interceptors
+
 ### Fragment
 
 ```
